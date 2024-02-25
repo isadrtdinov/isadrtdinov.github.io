@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Homepage of Ildus Sadrtdinov"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-About me
-======
 I am a PhD Student doing research in deep learning 
 at [Constructor University, Bremen](https://constructor.university/).
 I am interested in fundamental properties of neural networks,
