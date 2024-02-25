@@ -2,7 +2,7 @@
 title: "On the Memorization Properties of Contrastive Learning"
 collection: publications
 permalink: /publication/2021-on-the-memorization-properties
-excerpt: "<br/><img src='/images/2021-on-the-memorization-properties.png'>"
+excerpt: "<br/><img src='/images/2021-on-the-memorization-properties.png' width='200'>"
 date: 2021-07-24
 venue: 'Workshop on Overparameterization: Pitfalls & Opportunities at ICML'
 paperurl: 'https://arxiv.org/abs/2107.10143'
