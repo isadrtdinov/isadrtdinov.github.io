@@ -11,35 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+
+- **PhD (Computer Science)**: Constructor University, Bremen, Germany, 2024-2026 (expected)
+- **MSc (Math of Machine Learning)**: HSE University, Moscow, Russia, 2021-2023 <br>
+Thesis title: [Ensembling Neural Networks in the Transfer Learning Setup](https://www.hse.ru/en/ma/sltheory/students/diplomas/836770073)
+- **BSc (Applied Mathematics & Informatics)**: HSE University, Moscow, Russia, 2017-2021 <br>
+Thesis title: [Empirical Analysis of Self-Supervised Training Properties](https://www.hse.ru/en/edu/vkr/470558018)
+
+**Languages:** Russian (native), English (C1)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- [**Centre of Deep Learning and Bayesian Methods**](https://bayesgroup.ru/) &mdash;
+HSE University, Moscow, Russia, 2021-2023 <br>
+*Research assistant*: Fundamental research in deep learning
+- [**SmartDec**](https://smartdec.net) &mdash; Moscow, Russia, 2019-2020 <br>
+*Intern, development & analytics*: Industrial research in cryptography and zero-knowledge proofs
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming languages**:
+  * *Proficient*: Python, LaTeX
+  * *Intermediate*: C/C++, Rust
+* **Technologies**:
+  * *Data science:* PyTorch, NumPy, Pandas, scikit-learn, matplotlib
+  * *Linux*: bash, git, ssh, docker
 
 Publications
 ======
@@ -58,7 +55,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

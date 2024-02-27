@@ -22,7 +22,7 @@ tldr: >
   We successfully reproduce results of the paper “Towards Understanding Grokking:
   An Effective Theory of Representation Learning”. We investigate the consistency
   of training phases depending on data and weight initialization and propose smooth
-  phase diagrams for better visual perception.
+  phase diagrams.
 ---
 
 In this work, we attempt to reproduce the results of the NeurIPS 2022 paper 
