@@ -28,6 +28,9 @@ I also enjoy teaching courses about Machine Leaning and Deep Learning.
 
 # News
 
+<span style="color:gray;font-style:italic">24-28 April 2024 »</span>
+I participated in [CultTech Camp](https://culttech.at/culttech-camp) organized by CultTech
+Association and Constructor University, bringing together science and art. <br>
 <span style="color:gray;font-style:italic">8 March 2024 »</span>
 Our [NeurIPS-2023 paper](https://isadrtdinov.github.io/publication/2023-to-stay-or-not-to-stay)
 is presented at [ML Collective](https://mlcollective.org/dlct/) paper reading group! <br>
