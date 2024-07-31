@@ -28,6 +28,9 @@ I also enjoy teaching courses about Machine Leaning and Deep Learning.
 
 # News
 
+<span style="color:gray;font-style:italic">27 July 2024 »</span>
+Our [paper](https://isadrtdinov.github.io/publication/2024-large-lrs-features)
+is presented at ICML 2024 HiLD workshop in Vienna, Austria! <br>
 <span style="color:gray;font-style:italic">24-28 April 2024 »</span>
 I participated in [CultTech Camp](https://culttech.at/culttech-camp) organized by CultTech
 Association and Constructor University, bringing together science and art. <br>
