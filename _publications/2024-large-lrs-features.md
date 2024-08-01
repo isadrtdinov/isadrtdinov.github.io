@@ -21,7 +21,8 @@ links: >
 tldr: >
   We study feature learning properties of training with different initial LRs.
   We show that a narrow range of optimal initial LRs learns a sparse set of the most
-  useful features.
+  useful features. At the same time, smaller LRs do not have such specialization, while
+  larger LRs fail to extract useful patterns from data.
 ---
 
 It is a conventional wisdom that using large learning rates (LRs) early
