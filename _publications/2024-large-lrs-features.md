@@ -7,7 +7,7 @@ title: >
 authors: >
   <b>Ildus Sadrtdinov</b>, 
   <a href="https://scholar.google.com/citations?user=BGVWciMAAAAJ&hl=en">Maxim Kodryan</a>,
-  Eduard Pokonechny,
+  <a href="https://scholar.google.com/citations?user=lvAKVn4AAAAJ&hl=en">Eduard Pokonechny*</a>,
   <a href="https://tipt0p.github.io/">Ekaterina Lobacheva*</a>,
   <a href="https://scholar.google.com/citations?user=7HU0UoUAAAAJ&hl=en">Dmitry Vetrov*</a>
 collection: publications

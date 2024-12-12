@@ -18,7 +18,7 @@ I am also interested in the area of knowledge transfer,
 including self-supervised learning and transfer learning.
 
 I am pleased to be a part of
-[Bayesian Methods Research Group](https://bayesgroup.ru/) (a.k.a. Bayesgroup)
+[Bayesian Methods Research Group](https://bayesgroup.org/) (a.k.a. Bayesgroup)
 and work under the supervision of
 [Dmitry Vetrov](https://scholar.google.com/citations?user=7HU0UoUAAAAJ&hl=en)
 and [Ekaterina Lobacheva](https://tipt0p.github.io/).
