@@ -20,7 +20,7 @@ links: >
   <a href="https://neurips.cc/virtual/2023/poster/71864">poster & video</a> /
   <a href="https://x.com/KateLobacheva/status/1734344960579936568">X thread</a> /
   <a href="https://github.com/isadrtdinov/ens-for-transfer">code</a> /
-  <a href="../files/2023-on-the-memorization-properties.bib">bibtex</a>
+  <a href="../files/2023-to-stay-or-not-to-stay.bib">bibtex</a>
 tldr: >
   We study the effectiveness of the exploration of the pre-train basin
   and its close vicinity for ensembling in transfer learning. We show that
