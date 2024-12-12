@@ -8,8 +8,8 @@ authors: >
   <b>Ildus Sadrtdinov*</b>, 
   <a href="https://scholar.google.com/citations?user=BGVWciMAAAAJ&hl=en">Maxim Kodryan*</a>,
   <a href="https://scholar.google.com/citations?user=lvAKVn4AAAAJ&hl=en">Eduard Pokonechny*</a>,
-  <a href="https://tipt0p.github.io/">Ekaterina Lobacheva†</a>,
-  <a href="https://scholar.google.com/citations?user=7HU0UoUAAAAJ&hl=en">Dmitry Vetrov†</a>
+  <a href="https://tipt0p.github.io/">Ekaterina Lobacheva<sup>†</sup></a>,
+  <a href="https://scholar.google.com/citations?user=7HU0UoUAAAAJ&hl=en">Dmitry Vetrov<sup>†</sup></a>
 collection: publications
 permalink: /publication/2024-where-do-large-lrs
 date: 2024-12-13
