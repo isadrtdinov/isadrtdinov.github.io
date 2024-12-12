@@ -17,6 +17,7 @@ venue: "ICML 2024 Workshop HiLD"
 links: >
   <a href="https://openreview.net/pdf?id=IID2DF3q9J">pdf</a> /
   <a href="https://openreview.net/forum?id=IID2DF3q9J">openreview</a> /
+  <a href="https://x.com/KateLobacheva/status/1816586045049249911">X thread</a> /
   <a href="../files/2024-large-lrs-features.bib">bibtex</a>
 tldr: >
   We study feature learning properties of training with different initial LRs.

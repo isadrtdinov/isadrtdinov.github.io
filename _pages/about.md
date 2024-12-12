@@ -28,6 +28,9 @@ I also enjoy teaching courses about Machine Leaning and Deep Learning.
 
 # News
 
+<span style="color:gray;font-style:italic">13 December 2024 »</span>
+Our [paper](https://isadrtdinov.github.io/publication/2024-where-do-large-lrs)
+is presented at NeurIPS-2024 in Vancouver, Canada! <br>
 <span style="color:gray;font-style:italic">27 July 2024 »</span>
 Our [paper](https://isadrtdinov.github.io/publication/2024-large-lrs-features)
 is presented at ICML 2024 HiLD workshop in Vienna, Austria! <br>
