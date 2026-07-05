@@ -28,11 +28,17 @@ I also enjoy teaching courses about Machine Leaning and Deep Learning.
 
 # News
 
+<span style="color:gray;font-style:italic">21 August 2026 »</span>
+Our [paper](https://isadrtdinov.github.io/publication/2026-can-stationary-distributions)
+is presented at IJCAI-2026 in Bremen, Germany! <br>
+<span style="color:gray;font-style:italic">26 April 2026 »</span>
+Our [paper](https://openreview.net/forum?id=c1pEF21dsY&noteId=oaAvaABINv)
+is presented at ICLR 2026 Sci4DL workshop in Rio de Janeiro, Brazil! <br>
 <span style="color:gray;font-style:italic">13 December 2024 »</span>
 Our [paper](https://isadrtdinov.github.io/publication/2024-where-do-large-lrs)
 is presented at NeurIPS-2024 in Vancouver, Canada! <br>
 <span style="color:gray;font-style:italic">27 July 2024 »</span>
-Our [paper](https://isadrtdinov.github.io/publication/2024-large-lrs-features)
+Our [paper](https://openreview.net/forum?id=IID2DF3q9J&noteId=IID2DF3q9J)
 is presented at ICML 2024 HiLD workshop in Vienna, Austria! <br>
 <span style="color:gray;font-style:italic">24-28 April 2024 »</span>
 I participated in [CultTech Camp](https://culttech.at/culttech-camp) organized by CultTech

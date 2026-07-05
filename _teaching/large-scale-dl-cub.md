@@ -5,11 +5,11 @@ type: "For 2nd year masters"
 permalink: /teaching/large-scale-dl-cub
 venue: "Constructor University, Bremen"
 role: "course author, lectures, practical classes"
-years: "2024"
+years: "2024, 2025"
 date: 2024-09-01
 location: "Bremen, Germany"
 links: >
-  <a href="https://github.com/isadrtdinov/lsdl-cub/tree/main">github</a>
+  <a href="https://github.com/isadrtdinov/lsdl-cub">github</a>
 ---
 
 This course focuses on the methodologies and techniques used to train
