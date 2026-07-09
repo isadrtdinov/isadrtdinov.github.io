@@ -13,7 +13,7 @@ authors: >
 collection: publications
 permalink: /publication/2026-why-gaussian-diffusion
 date: 2026-04-02
-venue: "arXiv preprint"
+venue: "Conference on Language Modeling (COLM) 2026"
 links: >
   <a href="https://arxiv.org/abs/2604.02028">arXiv</a> /
   <a href="https://x.com/a__shabalin/status/2062086123405365658">X thread</a> /
