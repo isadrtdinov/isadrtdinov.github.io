@@ -17,6 +17,7 @@ date: 2026-08-15
 venue: "International Joint Conference on Artificial Intelligence (IJCAI)"
 links: >
   <a href="https://arxiv.org/abs/2511.07308">arXiv</a> /
+  <a href="https://x.com/irsadrtdinov/status/2089442377496719411">X thread</a> /
   <a href="https://github.com/isadrtdinov/neural-nets-ideal-gas">code</a> /
   <a href="../files/2026-can-stationary-distributions.bib">bibtex</a>
 tldr: >
