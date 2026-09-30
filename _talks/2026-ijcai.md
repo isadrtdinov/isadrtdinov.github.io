@@ -1,13 +1,12 @@
 ---
 title: >
-  To Stay or Not to Stay in the Pre-train Basin:
-  Insights on Ensembling in Transfer Learning
+  Can Stationary Distributions of Scale-Invariant Neural Networks Be Described by the Thermodynamics of an Ideal Gas?
 collection: talks
 type: "Paper presentation"
-permalink: /talks/2023-fall-into-ml
-venue: "Fall into ML 2023: Conference on Machine Learning at HSE University"
-date: 2023-10-28
-location: "Moscow, Russia"
+permalink: /talks/2026-ijcai
+venue: "35th International Joint Conference on Artificial Intelligence"
+date: 2026-08-21
+location: "Bremen, Germany"
 language: "English"
 ---
 
